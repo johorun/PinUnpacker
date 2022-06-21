@@ -1,2 +1,2 @@
 # PinUnpacker
-pin-based auto unpacker
+Pin-based auto unpacker
